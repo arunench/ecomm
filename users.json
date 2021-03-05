@@ -43,5 +43,15 @@
     "email": "iadfji@adifa.com",
     "password": "3d12bd580aaa8c45ef7e3f6f1789639c9bbac998e2236882de679c51cfd66ae26985bfe5acc57dd3f98e80f16031631c4b833c86d3f6539f33024972674f6c1a.f236e695a119c771",
     "id": "c9c29a3b"
+  },
+  {
+    "email": "phone@phone.com",
+    "password": "e8f51a81e5f4981052545ddcf9df6a1d388023ca3f779ce5cccb1dc6e3866232197c7ed0bbf1bf56654329d2b22064662f68eb2e5c34115637a1eda6f5bd010d.b7f190b78888aef8",
+    "id": "5b7a9ca2"
+  },
+  {
+    "email": "phone1@phone.com",
+    "password": "c2f5ca39d3b014713929e05458c603364761a2e258da9966dccaa5b8dc1508a108832e55f5a5bcf98a390a5e0f70bd8982a9895907b871452ed8e7202fd61b35.fde5b82d606ba59c",
+    "id": "2596a281"
   }
 ]

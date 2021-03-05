@@ -14,7 +14,6 @@ const users = require('../../repositories/users');
 const router = express.Router();
 
 router.get('/signup', (req, res) => {
-
     res.send(signupTemplate({ req }));
 
 });
@@ -29,7 +28,6 @@ router.post(
     ],
     handleErrors(signupTemplate),
     async (req, res) => {
-
         const { email, password } = req.body;
         const user = await usersRepo.create({ email, password });
         
