@@ -18,10 +18,6 @@ router.get('/signup', (req, res) => {
 
 });
 
-router.get('/', (req, res) => {
-    res.send(signupTemplate({req}));
-});
-
 router.post(
     '/signup', 
     [
